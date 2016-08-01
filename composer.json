@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "tecnickcom/tc-lib-color": "dev-master"
+        "tecnickcom/tc-lib-color": "1.7.2"
     },
     "require-dev": {
         "apigen/apigen" : "4.1.*",
